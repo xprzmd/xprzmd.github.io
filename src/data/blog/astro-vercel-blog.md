@@ -1,12 +1,12 @@
 ---
 author: xprzmd
-pubDatetime: 2026-04-19
+pubDatetime: 2026-04-19T13:45:25.548+08:00
 modDatetime:
 title: Astro+Vercel个人博客
 slug: astro-vercel-blog
 featured: false
 draft: false
-tags: []
+tags: ["others"]
 description: 基于 Astro + Vercel + Obsidian 的三端同步个人博客搭建指南
 ---
 
