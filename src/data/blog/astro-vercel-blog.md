@@ -54,6 +54,6 @@ Vercel**用来把你push的代码变成网页**，比github actions强大，速�
 ## 配置域名与DNS解析
 Vercel的域名访问还是非常缓慢。
 去[腾讯云](https://buy.cloud.tencent.com/domain?from=domain-console&position=domain-add-btn&_t=1775074038093)/[阿里云](https://www.alibabacloud.com/zh/domain?_p_lc=1&spm=a3c0i.7911826.nav-v2-dropdown-menu-2.d_main_12_0_0.6bb26cf4Oy6LPA&scm=20140722.X_data-d8ed229dd5ab5a3752a0._.V_1)买个域名，一年10块左右。还有dns解析
-![屏幕截图-2026-04-02 040711-1.png](/images/屏幕截图-2026-04-02 040711-1.png)
+![屏幕截图-2026-04-02-040711-1.png](/images/屏幕截图-2026-04-02-040711-1.png)
 回到Vercel配置一下域名和dns解析，即可正常使用。
 ![Pasted-image-20260415164544.png](/images/Pasted-image-20260415164544.png)
